@@ -12,7 +12,7 @@ The game simulates real-time interaction between Pac-Man and multiple ghosts usi
 
 ## 🔧 Technologies Used
 
-- **Language**: C (C99 Standard)
+- **Language**: C 
 - **Graphics Library**: SFML
 - **Multithreading**: POSIX Threads (pthreads)
 - **Synchronization**: Mutexes and Semaphores
@@ -51,20 +51,10 @@ The game simulates real-time interaction between Pac-Man and multiple ghosts usi
 ### Prerequisites:
 - GCC with pthread and SFML support
 - SFML installed system-wide (`libsfml-dev` on Linux)
-
-### Compile:
-
-```bash
-gcc -o pacman *.c -lsfml-graphics -lsfml-window -lsfml-system -lpthread
-
 ---
 
-### Demo
-
-Watch the full gameplay demo on YouTube:  
-[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
+## Youtube Demo 
+📺 **[Pacman Demo](https://youtu.be/YoEW8AAq3gY)**
 
 ### Developed By
 
